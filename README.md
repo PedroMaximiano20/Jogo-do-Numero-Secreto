@@ -4,5 +4,4 @@
 
 ---
 ## 🛠 Tecnologias Usadas
-|---|---|
 | JavaScript, HTML, CSS |
