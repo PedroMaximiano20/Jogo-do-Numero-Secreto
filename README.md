@@ -1,5 +1,5 @@
-Projeto Pessoal de Estudo
+# Projeto pessoal de estudo
 
-==================================================================
+> Jogo do Numero Secreto: Se baseia em um jogo de adivinhação entre 1 e 100
 
-Se baseia em um jogo de advinhação de um numero secreto entre 1 a 100
+---
